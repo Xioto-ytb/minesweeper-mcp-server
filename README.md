@@ -3,6 +3,7 @@
 This is an [Model Context Protocol server](https://github.com/modelcontextprotocol/servers) that allows an MCP client agents to play a game of [Minesweeper](<https://en.wikipedia.org/wiki/Minesweeper_(video_game)>). It is intended to be run alongside the [Minesweeper game server](https://github.com/tonypan2/minesweeper-server).
 
 ![Screen capture](static/screen_recording.gif?raw=true)
+View the entire video demo at https://youtu.be/CXXMafVtlEQ (16x speedup).
 
 ## Getting started
 
